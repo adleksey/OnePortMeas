@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\user\\Anaconda3\\python.exe",
+    "python.linting.pylintEnabled": true,
+	"python.linting.pylintArgs": [
+        "--disable=R,C",
+        "--extension-pkg-whitelist=PyQt5"
+    ]
+}
